@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "ACENDEDAFKBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
+    "ip": "AtsroVortex_.aternos.me:39079",
     "port": 62213,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
